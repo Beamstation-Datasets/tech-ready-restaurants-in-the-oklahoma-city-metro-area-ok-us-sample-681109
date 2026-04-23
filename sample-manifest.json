@@ -1,12 +1,12 @@
 {
-  "export_job_id": "79a181fe-bfc0-400d-8596-8aa52caf30dc",
+  "export_job_id": "3d12e07c-2ee1-4d07-847a-3186b1fa0224",
   "id_short": 681109,
-  "published_at": "2026-04-19T07:44:15Z",
+  "published_at": "2026-04-23T07:03:53Z",
   "repo_name": "tech-ready-restaurants-in-the-oklahoma-city-metro-area-ok-us-sample-681109",
   "sample_asset_name": "beamstation_681109_restaurants-us-oklahomacityok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/681109/beamstation_681109_restaurants-us-oklahomacityok_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "529aa80f544c7a5b113bc2a5a15f03749369d778b21cbeb61637b80633a4b9b6",
-  "sample_size_bytes": 19977,
-  "total_records": 9
+  "sample_sha256": "74aec75bf6c6bd4e6f380eff3131e281bbcce03b461d7be003cbabadac2853ec",
+  "sample_size_bytes": 19741,
+  "total_records": 2
 }
