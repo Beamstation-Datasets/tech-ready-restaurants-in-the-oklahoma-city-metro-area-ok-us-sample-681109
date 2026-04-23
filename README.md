@@ -9,9 +9,9 @@
 | Dataset ID | `681109` |
 | Location | Oklahoma City, OK |
 | Category | Restaurants |
-| Full dataset size | 9 records |
-| Free sample size | 1 records (11.11%) |
-| Last export | 2026-04-15T08:15:27.324079+00:00 |
+| Full dataset size | 2 records |
+| Free sample size | 1 records (50.0%) |
+| Last export | 2026-04-22T15:31:39.512795+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-oklahoma-city-metro-area-ok-us-sample-681109/releases/download/sample-latest/beamstation_681109_restaurants-us-oklahomacityok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
